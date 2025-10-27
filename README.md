@@ -23,13 +23,6 @@ It’s designed with a clean UI and smooth interactions to give users a quick an
 - **[WeatherAPI.com](https://www.weatherapi.com/)** – real-time weather data
 
 ---
-
-## ⚙️ Setup Instructions
-
-### 1. Clone this repository
-```bash
-git clone https://github.com/<your-username>/weather-vibes.git
-
 2. Navigate to the project folder
 cd weather-vibes
 ![Weather Vibes Screenshot](screenshot.png)
@@ -48,4 +41,11 @@ If you like this project, don’t forget to ⭐ star the repo and share it with 
 
 
 ---
+## ⚙️ Setup Instructions
+
+### 1. Clone this repository
+```bash
+git clone https://github.com/<your-username>/weather-vibes.git
+
+
 
